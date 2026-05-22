@@ -24,13 +24,13 @@ Here're some of the project's best features:
 <p>1. Clone the repository: bash Copy code</p>
 
 ```
-git clone https://github.com/your-username/messbuddy.git
+git clone https://github.com/brijmohan17/MessBuddy-smart-mess-management-platform.git
 ```
 
 <p>2. Navigate to the project directory</p>
 
 ```
-cd messbuddy  
+cd MessBuddy-smart-mess-management-platform  
 ```
 
 <p>3. install dependencies</p>
